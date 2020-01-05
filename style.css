@@ -24,3 +24,8 @@ header--main {
     font-size: 21px;
     color: gray;
 }
+.footer {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
